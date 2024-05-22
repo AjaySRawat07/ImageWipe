@@ -36,7 +36,6 @@ function Home() {
         </div>
       </div>
       <div className="md:mt-60 xl:mt-1">
-      <Footer />
       </div>
     </>
   );
